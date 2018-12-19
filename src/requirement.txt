@@ -1,0 +1,1 @@
+SLDENCのコンパイルには、libsndfile(URL:http://www.mega-nerd.com/libsndfile)が必要です
