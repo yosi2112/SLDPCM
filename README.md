@@ -9,6 +9,6 @@ SLDPCM(Shift Logarithmic Differential Pulse-code Modulation)は敷香技術研�
 **Libsndfileがインストールされている環境が必要です**  
 
 * 使い方  
-`SLDENC <inputfile> <outputfile>`  
-SLDCONVも同様です。  
+`SLDENC <inputfile> <outputfile>`(WAV版)  
+SLDCONV(RAWデータ版:Libsndfile不使用)も同様です。  
 **ただし、どちらも入力するファイルは符号付16ビットのモノラルあるいはステレオでなければなりません。**
